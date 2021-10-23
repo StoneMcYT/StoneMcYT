@@ -9,3 +9,4 @@ Just some dev. Im still 13/14 ish amazing.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StoneMcYT)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StoneMcYT)](https://github.com/anuraghazra/github-readme-stats)
