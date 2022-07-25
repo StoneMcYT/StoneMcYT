@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StoneMcYT)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-Previous elected leader of Team ASEAN
-Currently the community manager of AvdanOS community
-Currently Head of Tech & IT and Nev aerospace 
+- A Head Manger @ AvdanOS
+- Ex-Leader of BTE Team ASEAN
+- Curently studying com sci
+- May have fallen for someone alr
